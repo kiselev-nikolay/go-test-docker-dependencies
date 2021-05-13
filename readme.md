@@ -1,6 +1,6 @@
 # Go Test Docker Dependencies
 
-Go test docker dependencies is used to declare the dependencies required to run the test in the docker. For example this could be a database.
+Go test docker dependencies is used to declare the dependencies required to run the test with something running in docker. For example this could be a database.
 
 Currently available:
 + PostgreSQL
